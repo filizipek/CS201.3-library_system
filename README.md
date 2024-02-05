@@ -4,10 +4,6 @@
 
 This C++ program, implemented in `main.cpp`, is a simple Library System that allows users to perform various operations on a collection of books. The program supports functionalities such as adding books, searching for books by author or title, displaying the sorted list of books, and quitting the system.
 
-## Author
-
-- **Filiz İpek Oktay**
-
 ## Features
 
 1. **Add Books:**
